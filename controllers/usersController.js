@@ -22,7 +22,6 @@ const getUser = async (req, res = response) => {
     users
   })
 
-
 }
 
 const editUser = async (req, res = response) => {
